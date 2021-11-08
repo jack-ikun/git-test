@@ -21,5 +21,6 @@ public class GitTest {
         System.out.println("Hello IDEA Git6 version error merge master");
         System.out.println("Hello IDEA Git6 version error  merge");
         System.out.println("Hello IDEA Git push test");
+        System.out.println("Hello IDEA Git pull test");
     }
 }
