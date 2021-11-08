@@ -5,6 +5,7 @@ package com.kun.git;
  * 右键项目根目录，Git，add，添加到暂存区，变绿
  * 右键项目根目录，Git,commit diretory,变黑 提交完成
  * 代码修改，文件名变蓝 代表：被追踪过，但是被修改 -->需要add commit(idea中可以直接提交到本地库)
+ * head （黄色，控制版本，选择分支） master（绿色，版本控制）
  * @author jiakun
  * @create 2021-11-08-14:25
  */
@@ -13,5 +14,6 @@ public class GitTest {
         System.out.println("Hello IDEA Git1");
         System.out.println("Hello IDEA Git2 version reset hard");
         System.out.println("Hello IDEA Git3 version reset hard");
+        System.out.println("Hello IDEA Git4 version reset hard");
     }
 }
